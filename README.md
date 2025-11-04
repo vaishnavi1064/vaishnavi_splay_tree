@@ -95,7 +95,6 @@ The <code>struct node</code> forms the basis of the tree and contains several ke
 
 <h2>👩‍💻 <b>Author</b></h2>
 <p>
-(Based on your previous projects)
 
 
 
